@@ -1,2 +1,2 @@
 # n-counter
-A program built for automatic counting of neurons in stained samples.
+An OpenCV program built for automatic counting of neurons in stained tardigrade samples.
